@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rickphil/Documents/C/cmake_test/src/includes/primes.cpp
+primes.hpp
+/home/rickphil/Documents/C/cmake_test/src/includes/primes.hpp
+iostream
+-
+
+/home/rickphil/Documents/C/cmake_test/src/includes/primes.hpp
+

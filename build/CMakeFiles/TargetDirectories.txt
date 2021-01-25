@@ -1,0 +1,4 @@
+/home/rickphil/Documents/C/cmake_test/build/CMakeFiles/rebuild_cache.dir
+/home/rickphil/Documents/C/cmake_test/build/CMakeFiles/edit_cache.dir
+/home/rickphil/Documents/C/cmake_test/build/CMakeFiles/test_exec.dir
+/home/rickphil/Documents/C/cmake_test/build/CMakeFiles/primes.dir
